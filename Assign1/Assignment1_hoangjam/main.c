@@ -36,9 +36,9 @@ int main() {
 
     // PART 2.
     printf("\nString: ");
-    for (int i = 0; i < MAX_LEN; i++) {
-        printf("%c", str[i]);
-    }
+    //    for (int i = 0; i < MAX_LEN; i++) {
+    printf("%s", str);
+    //    }
     FLUSH;
     RMN(str);
 

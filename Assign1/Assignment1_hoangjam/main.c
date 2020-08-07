@@ -21,7 +21,7 @@ int main() {
     char str[MAX_LEN] = "";
     char tmp[MAX_LEN];
 
-    // PART 1.
+    // PART 1.//
     printf("Series: ");
     unsigned long x = 0;
     int index = 0;
